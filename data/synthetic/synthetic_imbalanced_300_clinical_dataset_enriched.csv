@@ -1,0 +1,301 @@
+response,tmb,pd_l1,age,msi,metastasis,cancer,ecog_score,smoking_status,cancer_stage,treatment_start_days
+1,16.99,23.8,Senior,do not report,0,Melanoma,1,Never,Stage II,32
+1,14.45,72.8,Middle-Aged,do not report,0,Gastric Cancer,1,Former,Stage III,24
+1,17.59,36.8,Senior,instable,0,Gastric Cancer,1,Former,Stage IV,24
+1,21.09,63.2,Middle-Aged,instable,0,Gastric Cancer,2,Former,Stage IV,36
+1,14.06,63.4,Senior,do not report,0,Lung Adenocarcinoma,1,Never,Stage III,41
+1,14.06,53.6,Elderly,stable,1,Colorectal Cancer,1,Never,Stage III,27
+1,21.32,9.0,Elderly,indeterminate,0,Lung Adenocarcinoma,1,Never,Stage II,26
+1,18.07,83.5,Elderly,do not report,0,Colorectal Cancer,4,Never,Stage IV,35
+1,13.12,32.1,Senior,stable,1,Lung Adenocarcinoma,1,Former,Stage I,16
+1,17.17,18.7,Middle-Aged,instable,1,Colorectal Cancer,3,Current,Stage III,32
+1,13.15,4.1,Middle-Aged,instable,1,Lung Adenocarcinoma,1,Former,Stage II,35
+1,13.14,59.1,Senior,stable,0,Gastric Cancer,0,Former,Stage II,36
+1,15.97,67.8,Elderly,indeterminate,1,Melanoma,0,Current,Stage III,10
+1,7.35,1.7,Elderly,instable,0,Lung Adenocarcinoma,1,Former,Stage IV,22
+1,8.1,51.2,Middle-Aged,instable,0,Colorectal Cancer,0,Current,Stage I,21
+1,12.75,22.6,Elderly,instable,0,Gastric Cancer,0,Former,Stage III,30
+1,10.95,64.5,Young,stable,0,Lung Adenocarcinoma,3,Never,Stage I,34
+1,16.26,17.4,Middle-Aged,do not report,1,Lung Adenocarcinoma,2,Never,Stage II,44
+1,11.37,69.1,Elderly,instable,1,Gastric Cancer,2,Former,Stage III,25
+1,9.35,38.7,Middle-Aged,do not report,0,Lung Adenocarcinoma,0,Never,Stage III,25
+1,20.86,93.7,Young,indeterminate,0,Melanoma,0,Never,Stage II,41
+1,14.1,13.8,Middle-Aged,instable,0,Lung Adenocarcinoma,0,Former,Stage II,32
+1,15.27,34.1,Middle-Aged,instable,1,Melanoma,2,Former,Stage I,42
+1,9.3,11.3,Middle-Aged,indeterminate,0,Melanoma,3,Former,Stage II,32
+1,12.82,92.5,Middle-Aged,instable,0,Gastric Cancer,1,Never,Stage IV,18
+1,15.44,87.7,Young,do not report,1,Lung Adenocarcinoma,0,Never,Stage IV,16
+1,10.4,25.8,Senior,stable,1,Gastric Cancer,1,Former,Stage II,14
+1,16.5,66.0,Middle-Aged,do not report,0,Lung Adenocarcinoma,1,Current,Stage III,36
+1,12.6,81.7,Middle-Aged,stable,1,Lung Adenocarcinoma,1,Former,Stage IV,41
+1,13.83,55.5,Elderly,stable,1,Colorectal Cancer,2,Current,Stage I,48
+1,12.59,53.0,Middle-Aged,do not report,0,Lung Adenocarcinoma,2,Former,Stage IV,38
+1,22.41,24.2,Elderly,do not report,1,Gastric Cancer,0,Former,Stage IV,41
+1,14.95,9.3,Senior,do not report,0,Melanoma,0,Never,Stage I,24
+1,10.77,89.7,Young,do not report,1,Lung Adenocarcinoma,4,Former,Stage II,18
+1,18.29,90.0,Young,indeterminate,0,Colorectal Cancer,0,Former,Stage IV,38
+1,10.12,63.3,Senior,instable,0,Gastric Cancer,0,Former,Stage III,34
+1,15.84,33.9,Young,stable,0,Lung Adenocarcinoma,0,Former,Stage I,31
+1,7.16,34.9,Senior,do not report,1,Gastric Cancer,0,Former,Stage II,33
+1,9.69,72.6,Senior,do not report,0,Colorectal Cancer,1,Never,Stage III,33
+1,15.79,89.7,Senior,do not report,1,Colorectal Cancer,2,Former,Stage III,42
+1,17.95,88.7,Young,indeterminate,0,Gastric Cancer,1,Never,Stage IV,42
+1,15.69,78.0,Elderly,do not report,0,Lung Adenocarcinoma,1,Current,Stage IV,35
+1,14.54,64.2,Senior,do not report,1,Melanoma,2,Never,Stage II,38
+1,13.8,8.4,Middle-Aged,do not report,0,Colorectal Cancer,1,Never,Stage III,35
+1,9.09,16.2,Young,instable,0,Lung Adenocarcinoma,3,Former,Stage III,25
+1,12.12,89.9,Senior,indeterminate,1,Lung Adenocarcinoma,3,Former,Stage III,37
+1,13.16,60.6,Senior,do not report,0,Melanoma,0,Former,Stage II,16
+1,19.23,0.9,Middle-Aged,stable,0,Colorectal Cancer,2,Never,Stage IV,40
+1,16.37,10.1,Elderly,stable,0,Colorectal Cancer,1,Former,Stage IV,18
+1,7.95,66.4,Elderly,stable,0,Lung Adenocarcinoma,4,Never,Stage III,32
+1,16.3,0.5,Elderly,indeterminate,1,Lung Adenocarcinoma,1,Current,Stage III,21
+1,13.46,16.1,Senior,indeterminate,1,Melanoma,4,Current,Stage II,35
+1,12.29,54.9,Senior,stable,0,Melanoma,2,Former,Stage III,29
+1,17.45,69.2,Senior,do not report,1,Colorectal Cancer,0,Never,Stage III,14
+1,19.12,65.2,Young,indeterminate,0,Gastric Cancer,1,Former,Stage III,34
+1,18.73,22.4,Middle-Aged,stable,1,Colorectal Cancer,4,Never,Stage IV,24
+1,11.64,71.2,Senior,stable,0,Lung Adenocarcinoma,3,Former,Stage III,38
+1,13.76,23.7,Middle-Aged,do not report,0,Colorectal Cancer,0,Never,Stage II,30
+1,16.33,32.5,Middle-Aged,instable,0,Gastric Cancer,2,Current,Stage IV,33
+1,18.9,74.6,Elderly,indeterminate,0,Melanoma,1,Never,Stage II,20
+1,13.08,65.0,Young,do not report,0,Gastric Cancer,0,Former,Stage II,24
+1,14.26,84.9,Senior,stable,0,Gastric Cancer,1,Former,Stage II,25
+1,10.57,65.8,Elderly,stable,1,Gastric Cancer,0,Former,Stage III,38
+1,10.22,56.8,Elderly,do not report,0,Melanoma,2,Never,Stage IV,46
+1,18.25,9.4,Senior,indeterminate,1,Gastric Cancer,1,Current,Stage III,21
+1,20.42,36.8,Middle-Aged,instable,0,Gastric Cancer,2,Former,Stage IV,40
+1,14.71,26.5,Elderly,instable,1,Gastric Cancer,0,Former,Stage III,8
+1,19.01,24.4,Middle-Aged,stable,1,Lung Adenocarcinoma,1,Never,Stage II,18
+1,16.45,97.3,Young,indeterminate,1,Gastric Cancer,0,Former,Stage IV,20
+1,12.42,39.3,Middle-Aged,instable,0,Melanoma,0,Former,Stage II,16
+1,16.45,89.2,Young,indeterminate,0,Gastric Cancer,0,Never,Stage II,14
+1,21.15,63.1,Middle-Aged,indeterminate,1,Gastric Cancer,0,Never,Stage III,34
+1,14.86,79.5,Elderly,stable,0,Melanoma,1,Current,Stage II,27
+1,21.26,50.3,Elderly,instable,1,Gastric Cancer,1,Never,Stage I,33
+1,4.52,57.7,Young,do not report,0,Melanoma,1,Never,Stage III,36
+1,18.29,49.3,Senior,stable,1,Gastric Cancer,1,Former,Stage III,32
+1,15.35,19.5,Young,instable,1,Melanoma,3,Former,Stage III,36
+1,13.8,72.2,Young,instable,0,Gastric Cancer,3,Never,Stage IV,29
+1,15.37,28.1,Middle-Aged,instable,1,Gastric Cancer,1,Former,Stage III,18
+1,7.05,2.4,Middle-Aged,instable,0,Lung Adenocarcinoma,1,Never,Stage IV,40
+1,14.12,64.5,Young,instable,1,Lung Adenocarcinoma,0,Never,Stage I,24
+1,16.43,17.7,Elderly,indeterminate,1,Gastric Cancer,4,Never,Stage III,20
+1,20.91,94.0,Middle-Aged,stable,0,Gastric Cancer,0,Current,Stage IV,28
+1,12.93,95.4,Senior,indeterminate,0,Colorectal Cancer,1,Never,Stage III,20
+1,11.77,91.5,Middle-Aged,do not report,0,Melanoma,1,Never,Stage IV,25
+1,12.99,37.0,Middle-Aged,instable,1,Colorectal Cancer,1,Former,Stage II,33
+1,18.66,1.5,Senior,stable,0,Lung Adenocarcinoma,0,Current,Stage I,33
+1,16.32,92.8,Young,instable,1,Lung Adenocarcinoma,2,Never,Stage III,21
+1,12.88,42.8,Senior,stable,1,Lung Adenocarcinoma,0,Former,Stage II,25
+1,17.05,96.7,Young,indeterminate,0,Lung Adenocarcinoma,2,Never,Stage IV,40
+1,15.39,96.4,Young,stable,0,Gastric Cancer,0,Former,Stage II,34
+1,18.87,85.3,Young,do not report,1,Lung Adenocarcinoma,0,Former,Stage IV,50
+1,12.19,29.4,Senior,do not report,1,Gastric Cancer,3,Former,Stage IV,41
+1,13.69,38.5,Young,stable,0,Gastric Cancer,0,Never,Stage II,41
+1,13.43,85.1,Elderly,stable,0,Lung Adenocarcinoma,2,Never,Stage II,16
+1,9.15,31.7,Senior,stable,0,Lung Adenocarcinoma,1,Never,Stage IV,37
+1,16.18,16.9,Elderly,stable,0,Melanoma,0,Never,Stage IV,29
+1,16.04,55.7,Young,do not report,0,Colorectal Cancer,4,Never,Stage III,24
+1,15.02,93.6,Middle-Aged,instable,1,Lung Adenocarcinoma,0,Former,Stage II,31
+1,14.06,69.6,Young,stable,1,Melanoma,3,Current,Stage III,39
+1,9.34,57.0,Elderly,stable,1,Melanoma,0,Current,Stage III,35
+1,13.32,9.7,Elderly,do not report,1,Colorectal Cancer,3,Current,Stage II,21
+1,13.63,61.5,Senior,do not report,0,Gastric Cancer,0,Former,Stage IV,37
+1,11.79,99.0,Middle-Aged,indeterminate,0,Lung Adenocarcinoma,1,Former,Stage I,23
+1,14.35,14.0,Senior,stable,0,Colorectal Cancer,2,Never,Stage I,32
+1,16.62,51.8,Elderly,indeterminate,1,Lung Adenocarcinoma,3,Former,Stage II,26
+1,22.54,87.7,Young,do not report,1,Melanoma,3,Former,Stage II,27
+1,15.7,74.1,Middle-Aged,do not report,0,Melanoma,2,Former,Stage II,37
+1,16.03,69.7,Young,instable,0,Gastric Cancer,3,Former,Stage III,19
+1,14.7,70.2,Young,stable,1,Melanoma,0,Never,Stage II,49
+1,7.32,35.9,Middle-Aged,indeterminate,1,Melanoma,1,Never,Stage II,11
+1,14.89,29.4,Senior,do not report,0,Colorectal Cancer,1,Current,Stage II,24
+1,15.24,80.9,Young,do not report,0,Lung Adenocarcinoma,1,Never,Stage IV,33
+1,24.85,81.0,Elderly,indeterminate,1,Lung Adenocarcinoma,1,Former,Stage III,35
+1,14.23,86.7,Young,instable,0,Colorectal Cancer,1,Current,Stage III,28
+1,16.21,91.3,Middle-Aged,do not report,0,Gastric Cancer,0,Former,Stage III,29
+1,14.86,51.1,Middle-Aged,stable,0,Lung Adenocarcinoma,2,Former,Stage IV,34
+1,10.33,50.2,Middle-Aged,do not report,1,Melanoma,0,Never,Stage II,27
+1,19.57,79.8,Senior,stable,1,Lung Adenocarcinoma,1,Never,Stage III,43
+1,18.01,65.0,Young,indeterminate,1,Melanoma,1,Current,Stage IV,38
+0,0.0,90.6,Young,instable,1,Gastric Cancer,2,Former,Stage III,38
+0,10.42,62.4,Young,indeterminate,0,Colorectal Cancer,2,Former,Stage I,20
+0,4.54,11.7,Elderly,instable,1,Colorectal Cancer,2,Never,Stage III,29
+0,9.95,94.0,Young,indeterminate,0,Gastric Cancer,0,Never,Stage I,26
+0,0.0,62.8,Middle-Aged,stable,1,Lung Adenocarcinoma,1,Current,Stage III,19
+0,2.6,33.5,Middle-Aged,indeterminate,0,Gastric Cancer,0,Never,Stage IV,33
+0,5.02,13.9,Elderly,stable,1,Colorectal Cancer,1,Former,Stage II,24
+0,5.19,79.4,Middle-Aged,indeterminate,0,Lung Adenocarcinoma,1,Never,Stage IV,36
+0,3.2,62.0,Senior,do not report,1,Colorectal Cancer,0,Former,Stage I,19
+0,7.49,53.3,Middle-Aged,do not report,0,Lung Adenocarcinoma,1,Current,Stage IV,47
+0,0.73,89.4,Middle-Aged,instable,0,Melanoma,4,Former,Stage III,21
+0,4.43,78.9,Young,indeterminate,0,Colorectal Cancer,4,Never,Stage II,32
+0,5.48,15.2,Young,indeterminate,0,Colorectal Cancer,1,Former,Stage I,37
+0,7.06,31.2,Middle-Aged,stable,1,Gastric Cancer,0,Former,Stage IV,24
+0,7.85,24.8,Elderly,instable,1,Colorectal Cancer,0,Former,Stage I,38
+0,0.5,74.4,Young,indeterminate,0,Colorectal Cancer,1,Current,Stage II,17
+0,0.0,3.4,Elderly,instable,1,Melanoma,3,Former,Stage II,44
+0,10.11,57.0,Middle-Aged,do not report,0,Colorectal Cancer,0,Current,Stage III,30
+0,6.33,76.2,Middle-Aged,indeterminate,0,Melanoma,2,Former,Stage III,24
+0,2.01,87.7,Senior,indeterminate,1,Melanoma,0,Never,Stage I,27
+0,11.2,34.2,Young,instable,0,Melanoma,4,Never,Stage II,38
+0,5.46,82.1,Middle-Aged,indeterminate,0,Melanoma,1,Never,Stage II,24
+0,9.72,11.1,Senior,instable,1,Lung Adenocarcinoma,2,Current,Stage II,22
+0,5.27,84.6,Young,indeterminate,0,Gastric Cancer,1,Former,Stage III,27
+0,13.24,12.7,Middle-Aged,stable,0,Lung Adenocarcinoma,2,Former,Stage IV,18
+0,12.02,39.7,Middle-Aged,instable,0,Colorectal Cancer,0,Never,Stage II,48
+0,4.0,79.7,Young,indeterminate,0,Lung Adenocarcinoma,0,Never,Stage II,24
+0,8.89,15.0,Young,do not report,1,Lung Adenocarcinoma,3,Former,Stage II,38
+0,7.58,22.9,Young,indeterminate,1,Colorectal Cancer,3,Former,Stage IV,32
+0,10.47,72.2,Middle-Aged,do not report,1,Colorectal Cancer,3,Never,Stage IV,20
+0,1.14,72.0,Middle-Aged,do not report,0,Colorectal Cancer,2,Former,Stage IV,29
+0,7.74,64.1,Senior,stable,0,Lung Adenocarcinoma,2,Never,Stage II,37
+0,9.23,69.4,Elderly,instable,1,Lung Adenocarcinoma,0,Never,Stage I,28
+0,0.0,54.3,Young,indeterminate,0,Colorectal Cancer,1,Former,Stage II,41
+0,0.27,25.2,Middle-Aged,stable,0,Gastric Cancer,1,Never,Stage II,40
+0,0.0,34.6,Middle-Aged,indeterminate,0,Gastric Cancer,2,Current,Stage III,39
+0,3.92,18.2,Young,do not report,0,Melanoma,1,Never,Stage IV,25
+0,7.87,90.8,Elderly,instable,1,Colorectal Cancer,0,Never,Stage IV,19
+0,11.01,58.3,Young,indeterminate,1,Melanoma,1,Never,Stage IV,23
+0,5.3,40.1,Elderly,indeterminate,1,Gastric Cancer,2,Former,Stage II,31
+0,11.51,46.2,Middle-Aged,do not report,0,Melanoma,1,Former,Stage III,35
+0,0.0,94.7,Elderly,indeterminate,1,Colorectal Cancer,0,Former,Stage II,8
+0,0.0,15.3,Senior,indeterminate,1,Colorectal Cancer,0,Never,Stage I,29
+0,4.78,58.6,Middle-Aged,do not report,0,Colorectal Cancer,0,Never,Stage IV,31
+0,6.54,50.6,Senior,stable,0,Lung Adenocarcinoma,1,Former,Stage I,27
+0,4.87,61.1,Young,do not report,1,Melanoma,2,Current,Stage III,42
+0,0.0,1.8,Young,stable,1,Gastric Cancer,2,Current,Stage II,34
+0,4.64,87.2,Young,instable,1,Gastric Cancer,2,Never,Stage III,43
+0,0.0,93.2,Elderly,stable,1,Gastric Cancer,1,Former,Stage IV,27
+0,7.68,56.5,Middle-Aged,stable,0,Lung Adenocarcinoma,2,Current,Stage II,39
+0,6.47,69.7,Young,instable,1,Lung Adenocarcinoma,0,Never,Stage IV,46
+0,1.24,92.2,Young,stable,1,Colorectal Cancer,1,Current,Stage II,43
+0,2.94,70.7,Middle-Aged,do not report,0,Gastric Cancer,2,Never,Stage III,19
+0,0.76,15.3,Young,stable,1,Lung Adenocarcinoma,0,Current,Stage IV,27
+0,4.75,57.6,Senior,instable,0,Colorectal Cancer,0,Former,Stage III,26
+0,8.82,60.7,Middle-Aged,do not report,0,Gastric Cancer,3,Current,Stage IV,34
+0,1.06,42.4,Middle-Aged,instable,0,Melanoma,1,Former,Stage II,36
+0,7.02,73.6,Middle-Aged,instable,1,Colorectal Cancer,2,Never,Stage III,21
+0,2.88,93.4,Senior,indeterminate,1,Lung Adenocarcinoma,0,Current,Stage III,30
+0,1.83,92.6,Middle-Aged,indeterminate,0,Lung Adenocarcinoma,2,Never,Stage IV,9
+0,4.57,45.1,Senior,instable,1,Colorectal Cancer,1,Never,Stage II,44
+0,0.86,11.3,Middle-Aged,instable,1,Colorectal Cancer,0,Former,Stage IV,24
+0,2.79,98.5,Elderly,instable,0,Lung Adenocarcinoma,2,Former,Stage III,30
+0,0.21,83.9,Young,indeterminate,0,Melanoma,0,Current,Stage II,26
+0,12.86,12.5,Elderly,indeterminate,1,Gastric Cancer,1,Never,Stage III,41
+0,5.14,92.1,Young,stable,0,Melanoma,0,Former,Stage II,1
+0,2.2,87.0,Senior,stable,1,Colorectal Cancer,0,Former,Stage III,29
+0,5.86,51.9,Elderly,instable,1,Melanoma,1,Never,Stage IV,28
+0,4.55,59.1,Middle-Aged,do not report,1,Lung Adenocarcinoma,0,Never,Stage III,25
+0,4.12,39.9,Young,do not report,1,Colorectal Cancer,3,Never,Stage III,47
+0,7.46,5.5,Young,indeterminate,0,Gastric Cancer,0,Never,Stage III,21
+0,8.03,33.5,Elderly,indeterminate,0,Lung Adenocarcinoma,1,Current,Stage I,37
+0,2.88,80.3,Senior,indeterminate,0,Lung Adenocarcinoma,0,Former,Stage II,33
+0,2.7,0.5,Elderly,instable,0,Gastric Cancer,1,Former,Stage III,42
+0,3.9,33.3,Senior,do not report,1,Gastric Cancer,3,Current,Stage II,23
+0,0.0,39.8,Senior,stable,1,Melanoma,0,Never,Stage II,22
+0,0.0,53.7,Young,instable,0,Colorectal Cancer,4,Current,Stage III,40
+0,10.47,92.0,Elderly,stable,1,Gastric Cancer,0,Former,Stage II,34
+0,11.58,34.6,Elderly,stable,1,Gastric Cancer,2,Current,Stage II,14
+0,4.0,34.7,Senior,instable,1,Colorectal Cancer,1,Never,Stage III,24
+0,7.31,73.8,Elderly,stable,0,Gastric Cancer,3,Current,Stage I,33
+0,6.25,45.2,Middle-Aged,do not report,0,Gastric Cancer,1,Never,Stage IV,38
+0,17.32,22.5,Middle-Aged,stable,0,Melanoma,1,Never,Stage IV,23
+0,9.48,45.2,Elderly,do not report,1,Lung Adenocarcinoma,0,Former,Stage IV,0
+0,4.49,14.1,Elderly,do not report,0,Lung Adenocarcinoma,0,Never,Stage I,35
+0,1.18,17.6,Senior,do not report,0,Lung Adenocarcinoma,3,Former,Stage IV,17
+0,0.0,49.8,Middle-Aged,indeterminate,0,Lung Adenocarcinoma,1,Former,Stage IV,9
+0,5.81,41.9,Middle-Aged,stable,0,Gastric Cancer,1,Former,Stage IV,1
+0,1.97,91.5,Young,instable,0,Colorectal Cancer,2,Never,Stage I,38
+0,0.0,36.2,Senior,instable,0,Colorectal Cancer,1,Never,Stage III,31
+0,2.41,58.1,Young,stable,1,Melanoma,4,Never,Stage IV,27
+0,0.67,63.2,Middle-Aged,indeterminate,1,Melanoma,2,Former,Stage III,43
+0,11.75,1.3,Senior,indeterminate,0,Gastric Cancer,1,Never,Stage III,36
+0,8.53,66.4,Elderly,do not report,0,Colorectal Cancer,3,Never,Stage III,46
+0,4.97,17.8,Senior,stable,1,Colorectal Cancer,0,Never,Stage III,16
+0,10.92,96.1,Elderly,stable,1,Lung Adenocarcinoma,1,Never,Stage I,29
+0,5.31,14.9,Elderly,instable,0,Gastric Cancer,1,Former,Stage III,13
+0,1.55,41.5,Senior,stable,0,Gastric Cancer,0,Current,Stage I,27
+0,11.09,8.5,Elderly,indeterminate,0,Lung Adenocarcinoma,2,Never,Stage III,27
+0,7.16,99.7,Young,stable,0,Gastric Cancer,3,Former,Stage II,36
+0,0.85,50.2,Middle-Aged,instable,1,Gastric Cancer,1,Former,Stage III,30
+0,4.24,59.5,Elderly,do not report,0,Melanoma,1,Former,Stage I,36
+0,1.5,6.7,Young,instable,0,Colorectal Cancer,4,Former,Stage III,37
+0,0.0,75.0,Elderly,instable,0,Gastric Cancer,1,Former,Stage IV,51
+0,8.7,21.0,Middle-Aged,do not report,0,Melanoma,1,Former,Stage II,26
+0,12.64,89.8,Young,instable,1,Colorectal Cancer,1,Never,Stage I,20
+0,0.0,20.5,Middle-Aged,instable,1,Lung Adenocarcinoma,3,Former,Stage I,32
+0,7.25,19.1,Middle-Aged,stable,1,Melanoma,1,Former,Stage IV,21
+0,2.4,3.7,Young,stable,0,Melanoma,2,Never,Stage III,44
+0,3.05,47.2,Young,do not report,0,Colorectal Cancer,2,Never,Stage III,27
+0,2.63,56.5,Young,stable,1,Lung Adenocarcinoma,1,Current,Stage I,24
+0,1.54,6.6,Senior,stable,0,Melanoma,1,Former,Stage III,25
+0,5.19,77.6,Young,instable,0,Gastric Cancer,2,Former,Stage IV,37
+0,1.68,45.3,Young,indeterminate,1,Gastric Cancer,1,Current,Stage IV,28
+0,6.08,52.4,Young,stable,1,Gastric Cancer,2,Former,Stage III,23
+0,4.8,44.1,Young,indeterminate,1,Lung Adenocarcinoma,3,Former,Stage I,46
+0,4.04,40.1,Elderly,stable,1,Melanoma,2,Former,Stage I,21
+0,1.37,56.0,Senior,stable,0,Gastric Cancer,2,Current,Stage I,30
+0,2.69,15.5,Middle-Aged,do not report,0,Lung Adenocarcinoma,2,Former,Stage II,36
+0,8.02,18.2,Young,do not report,1,Gastric Cancer,2,Former,Stage I,13
+0,7.0,86.2,Elderly,do not report,0,Colorectal Cancer,1,Never,Stage II,34
+0,1.09,94.6,Elderly,indeterminate,1,Melanoma,0,Current,Stage II,19
+0,5.4,37.3,Elderly,instable,1,Melanoma,1,Former,Stage IV,38
+0,8.01,27.1,Middle-Aged,stable,0,Lung Adenocarcinoma,2,Never,Stage III,20
+0,0.0,64.4,Young,stable,1,Lung Adenocarcinoma,1,Current,Stage IV,36
+0,7.17,40.9,Senior,stable,0,Melanoma,2,Former,Stage IV,41
+0,2.35,2.5,Senior,indeterminate,0,Gastric Cancer,1,Never,Stage I,38
+0,7.28,15.6,Elderly,do not report,0,Gastric Cancer,2,Former,Stage IV,32
+0,1.95,71.6,Middle-Aged,instable,0,Colorectal Cancer,0,Former,Stage II,27
+0,0.0,65.9,Middle-Aged,indeterminate,1,Gastric Cancer,2,Current,Stage III,24
+0,0.0,2.7,Middle-Aged,do not report,0,Lung Adenocarcinoma,1,Never,Stage II,44
+0,5.19,22.2,Senior,indeterminate,1,Lung Adenocarcinoma,0,Current,Stage IV,23
+0,6.04,23.1,Elderly,instable,1,Gastric Cancer,1,Former,Stage II,19
+0,1.38,67.2,Young,do not report,1,Lung Adenocarcinoma,2,Never,Stage II,36
+0,7.55,2.0,Senior,indeterminate,1,Melanoma,1,Current,Stage IV,22
+0,0.0,10.4,Elderly,instable,0,Melanoma,0,Former,Stage I,20
+0,4.74,80.0,Elderly,stable,0,Gastric Cancer,4,Never,Stage III,15
+0,0.16,17.9,Young,instable,1,Melanoma,2,Former,Stage IV,25
+0,2.39,65.3,Young,stable,1,Melanoma,4,Current,Stage IV,29
+0,5.19,23.8,Young,indeterminate,0,Colorectal Cancer,1,Never,Stage IV,32
+0,1.56,9.9,Middle-Aged,do not report,1,Colorectal Cancer,1,Never,Stage IV,39
+0,3.46,24.3,Young,do not report,0,Melanoma,3,Never,Stage I,35
+0,9.03,72.2,Elderly,indeterminate,1,Gastric Cancer,1,Never,Stage IV,28
+0,2.69,85.6,Young,do not report,0,Colorectal Cancer,2,Former,Stage III,28
+0,8.34,83.0,Elderly,do not report,1,Lung Adenocarcinoma,1,Former,Stage III,35
+0,0.48,39.7,Senior,stable,1,Lung Adenocarcinoma,1,Never,Stage I,42
+0,7.12,66.8,Middle-Aged,indeterminate,0,Lung Adenocarcinoma,0,Never,Stage III,31
+0,10.77,20.5,Senior,instable,1,Gastric Cancer,0,Never,Stage IV,25
+0,0.0,29.3,Senior,stable,1,Melanoma,0,Current,Stage IV,20
+0,1.81,89.6,Elderly,indeterminate,0,Lung Adenocarcinoma,0,Never,Stage III,15
+0,7.31,1.3,Senior,stable,1,Gastric Cancer,4,Current,Stage I,36
+0,4.19,8.6,Elderly,instable,0,Colorectal Cancer,0,Former,Stage II,35
+0,6.48,20.8,Young,instable,0,Melanoma,2,Never,Stage IV,35
+0,2.58,2.7,Young,indeterminate,1,Colorectal Cancer,2,Current,Stage IV,28
+0,5.35,18.1,Elderly,instable,1,Gastric Cancer,1,Former,Stage III,44
+0,4.38,58.3,Young,stable,1,Lung Adenocarcinoma,0,Former,Stage I,25
+0,9.67,42.1,Middle-Aged,instable,1,Lung Adenocarcinoma,2,Current,Stage III,39
+0,6.02,89.3,Senior,stable,1,Gastric Cancer,2,Never,Stage III,29
+0,6.35,81.7,Middle-Aged,stable,1,Lung Adenocarcinoma,2,Never,Stage IV,23
+0,3.35,34.2,Senior,instable,1,Melanoma,2,Former,Stage III,35
+0,3.05,25.9,Young,indeterminate,0,Gastric Cancer,4,Never,Stage II,34
+0,3.27,38.0,Middle-Aged,do not report,1,Colorectal Cancer,1,Never,Stage III,33
+0,6.58,59.0,Young,instable,0,Gastric Cancer,1,Never,Stage I,30
+0,3.32,26.8,Senior,stable,1,Melanoma,2,Never,Stage IV,29
+0,6.16,62.4,Elderly,stable,1,Melanoma,0,Former,Stage II,53
+0,13.3,40.9,Elderly,instable,0,Gastric Cancer,3,Never,Stage III,41
+0,8.48,55.2,Middle-Aged,indeterminate,1,Gastric Cancer,0,Former,Stage II,37
+0,3.7,43.6,Young,indeterminate,1,Lung Adenocarcinoma,1,Former,Stage III,31
+0,9.8,29.4,Young,stable,0,Melanoma,2,Former,Stage III,40
+0,3.37,94.8,Middle-Aged,stable,1,Gastric Cancer,1,Never,Stage IV,35
+0,0.0,76.4,Elderly,indeterminate,1,Gastric Cancer,1,Former,Stage II,30
+0,0.97,14.0,Senior,do not report,1,Melanoma,1,Never,Stage II,26
+0,0.0,86.8,Middle-Aged,instable,0,Gastric Cancer,3,Former,Stage I,29
+0,3.59,48.7,Senior,stable,1,Lung Adenocarcinoma,1,Current,Stage III,0
+0,5.07,89.5,Elderly,stable,1,Melanoma,3,Former,Stage I,32
+0,11.71,80.0,Young,indeterminate,1,Lung Adenocarcinoma,0,Former,Stage III,25
+0,6.31,42.5,Elderly,instable,1,Lung Adenocarcinoma,2,Former,Stage IV,45
+0,4.12,2.2,Middle-Aged,indeterminate,0,Lung Adenocarcinoma,2,Never,Stage IV,30
+0,8.32,26.9,Young,instable,0,Lung Adenocarcinoma,0,Current,Stage III,18
+0,0.0,54.2,Middle-Aged,instable,1,Melanoma,1,Current,Stage III,29
