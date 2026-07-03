@@ -78,3 +78,5 @@ iOS uygulaması (SwiftUI) ──► hekim sonuçları görür, bir hastaya dokun
 
 Ekran Görüntüsü
 
+https://github.com/bircancigdem/OncoAI/blob/main/ekran%20go%CC%88ru%CC%88ntu%CC%88su%CC%88.pdf
+
