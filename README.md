@@ -80,3 +80,31 @@ Ekran Görüntüsü
 
 https://github.com/bircancigdem/OncoAI/blob/main/ekran%20go%CC%88ru%CC%88ntu%CC%88su%CC%88.pdf
 
+
+
+Proje Yapısı
+
+```
+notebooks/01_veri_cogaltma.ipynb   CTGAN ile klinik veri çoğaltma, monoterapi + kombinasyon veri setlerinin birleştirilmesi
+notebooks/02_fuzzy_logic.ipynb     Yaş / PD-L1 üyelik fonksiyonları ve bulanık mantık tedavi önerisi
+notebooks/03_semifinal.ipynb       SMOTE + XGBoost + SHAP, eşik optimizasyonu, kalibrasyon, S-Learner + IPTW
+notebooks/04_final.ipynb           Final model: hasta bazlı tedavi, başarı olasılığı ve komplikasyon tahmini
+src/teknofest_pipeline.py          Yarı final için tek dosyalık XGBoost + SHAP + fuzzy pipeline
+backend/service.py                 FastAPI servisi (iOS uygulamasının kullandığı API)
+ios/                               SwiftUI hekim uygulaması (giriş, hasta paneli, açıklamalar)
+data/synthetic/                    Sentetik örnek veri setleri
+figures/                           SHAP ve karmaşıklık matrisi grafikleri
+```
+
+Veri Gizliliği
+
+Gerçek klinik veriler ve hasta bazlı çıktılar KVKK gereği bu depoda paylaşılmamıştır; yalnızca sentetik örnek veri setleri yer almaktadır. Notebook çıktıları bu nedenle temizlenmiştir.
+
+Çalıştırma
+
+```bash
+pip install -r requirements.txt
+uvicorn backend.service:app --reload        # API: http://127.0.0.1:8000
+```
+
+iOS uygulaması için `ios/final_mobile.xcodeproj` dosyasını Xcode ile açın ve `Config.plist` içindeki `API_BASE_URL` değerini backend adresinize göre güncelleyin.
